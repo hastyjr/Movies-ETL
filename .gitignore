@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# class files to ignore
+config.py
+ratings.csv
+
 # C extensions
 *.so
 
